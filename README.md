@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on GCP and IMS Cloud Architecture<br>🧑‍🤝‍🧑 I’m looking to collaborate on GitHub , GitLab , ...<br>🤝 I’m looking for help with any problems I encounter<br>🌿 I’m currently learning on new programming languages<br>💬 If you have any questions, don't hesitate, i don't bite<br>⚡ I love croissants ;)
+🔭 I’m currently working on GCP and Cloud Architecture<br>🧑‍🤝‍🧑 I’m looking to collaborate on GitHub , GitLab , ...<br>🤝 I’m looking for help with any problems I encounter<br>🌿 I’m currently learning on new programming languages<br>💬 If you have any questions, don't hesitate, i don't bite<br>⚡ I love croissants ;)
 
 
 ## 🌐 Socials:
